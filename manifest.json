@@ -1,7 +1,7 @@
 {
   "id": "/my-day-planner/",
-  "name": "Мой день — Планер",
-  "short_name": "Мой день",
+  "name": "My Day — Планер",
+  "short_name": "My Day",
   "description": "Организуйте свой день стильно! Планируйте события, устанавливайте таймеры и отслеживайте всё важное.",
   "lang": "ru",
   "dir": "ltr",
@@ -10,7 +10,7 @@
   "display": "standalone",
   "display_override": ["standalone", "minimal-ui", "window-controls-overlay"],
   "background_color": "#ffffff",
-  "theme_color": "#ff00ff",
+  "theme_color": "#4a90e2",
   "orientation": "portrait-primary",
   "categories": ["productivity", "lifestyle"],
   "icons": [
